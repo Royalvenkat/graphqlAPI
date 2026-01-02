@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.swp
+
+
